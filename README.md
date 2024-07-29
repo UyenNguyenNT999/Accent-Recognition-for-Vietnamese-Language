@@ -1,0 +1,1 @@
+A research study about constructing an audio dataset containing regional Vietnamese accents. I used Mel spectrograms for feature extraction and then employed a deep learning network as the classifier to predict between different Vietnamese regional accents.
